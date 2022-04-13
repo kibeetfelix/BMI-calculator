@@ -81,7 +81,7 @@ class _InputPageState extends State<InputPage> {
                   child: Container(
                     margin: EdgeInsets.all(15.0),
                     decoration: BoxDecoration(
-                      color: Colors.black38,
+                      // color: Colors.black38,
                       borderRadius: BorderRadius.circular(10.0),
                     ),
                   ),
